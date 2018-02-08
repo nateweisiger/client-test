@@ -16,7 +16,7 @@ import re  # noqa: F401
 
 import six
 
-from swagger_client.models.quad_links import QuadLinks  # noqa: F401,E501
+from swagger_client.models.quad__links import QuadLinks  # noqa: F401,E501
 
 
 class Quad(object):
